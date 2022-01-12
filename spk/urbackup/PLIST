@@ -1,0 +1,14 @@
+lib:lib/engines-1.1/afalg.so
+lib:lib/engines-1.1/capi.so
+lib:lib/engines-1.1/padlock.so
+lib:lib/libcrypto.so
+lib:lib/libcrypto.so.1.1
+lib:lib/libcurl.so
+lib:lib/libcurl.so.4
+lib:lib/libcurl.so.4.7.0
+lib:lib/libssl.so
+lib:lib/libssl.so.1.1
+lib:lib/libz.so
+lib:lib/libz.so.1
+lib:lib/libz.so.1.2.11
+rsc:var/urbackup/dataplan_db.txt

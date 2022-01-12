@@ -1,0 +1,15 @@
+[{
+    "step_title": "Urbackup",
+    "items": [{
+	"type": "textfield",
+        "desc": "Urbackup backup location. At this location client backup files are saved",
+        "subitems": [{
+            "key": "wizard_backup_dir",
+            "desc": "Backup path",
+            "defaultValue": "/volume1/urbackup",
+            "validator": {
+              "allowBlank": false
+             }
+          }]
+     }]
+}]
